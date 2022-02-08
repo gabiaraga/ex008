@@ -1,0 +1,119 @@
+body{
+  margin: 0;
+  background-color: wheat;
+}
+h1{
+  text-align: center;
+  font-style: italic;
+  color: darkred;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div{
+  margin: 0;
+  border: 0px solid black;
+  width: 100%;
+  height: 100%;
+}
+img{
+  margin: 0;
+  border: 0px solid black;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+#a{
+  border: 0px solid black;
+  height: 100vh;
+  display: block;
+  background-image: linear-gradient( to bottom, #d38065, #38110c,#eaec49,#d38065 );
+}
+#b{
+  border: 0px solid black;
+  height: 100vh;
+  display: block;
+  background: radial-gradient(circle, #D96A77, #a85388,#DD65E6, #D96A77);
+}
+#c{
+  border: 0px solid black;
+  height: 100vh;
+  display: block;
+  background: linear-gradient( 120deg, #80E671, #F0C869,#D96A77);
+}
+#d{
+  border: 0px solid black;
+  height: 100vh;
+  display: block;
+  background: linear-gradient( 45deg, #D96A77, #a85388,#5c1b61);
+}
+
+
+#e{
+  border: 0px solid black;
+  height: 100vh;
+  display: block;
+  background: linear-gradient( to bottom, #A4EBEA, #D8F59F,#DFBF9B);
+}
+#f{
+  border: 0px solid black;
+  height: 100vh;
+  display: block;
+  background: linear-gradient( to right, #98B9EB
+  , #F59FEB,green);
+}
+#g{
+  border: 0px solid black;
+  height: 100vh;
+  display: block;
+  background: radial-gradient( circle, purple, red,green);
+}
+#h{
+  border: 0px solid black;
+  height: 100vh;
+  display: block;
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+#i1{
+  background-image: url(imgs/burgundy-elegant-workspace-interior-P4SWBC6_Easy-Resize.com_.jpg);
+  display: block;
+  height: 100vh;
+
+}
+#i2{
+  background-image: url(imgs/monocromatico-2.png);
+  display: block;
+  height: 100vh;
+
+}
+#i3{
+  background-image: url(imgs/como-decorar-sua-casa-em-4-passos.png);
+  display: block;
+  height: 100vh;
+}
+#i4{
+  background-image: url(imgs/monocromatico-decoracao-verde-01.jpg);
+  display: block;
+  height: 100vh;
+}
+#i5{
+  background-image: url(imgs/anime23C.GIF.crdownload);
+  display: block;
+  height: 100vh;
+}
+#i6{
+  background-image: url(imgs/ce7d33e008c598ac14456e6294fe034f.gif);
+  display: block;
+  height: 100vh;
+}
+#i7{
+  background-image: url(imgs/bbfab4193068d59e50ee63f504b58c49.gif);
+  display: block;
+  height: 100vh;
+}
+#i8{
+  background-image: url(imgs/ni7.gif);
+  display: block;
+  height: 100vh;
+}
